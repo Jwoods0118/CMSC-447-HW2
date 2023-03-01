@@ -1,0 +1,25 @@
+{
+  "name": "cmsc-447-hw2",
+  "version": "1.0.0",
+  "description": "HW2 CRUD Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jwoods0118/CMSC-447-HW2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jwoods0118/CMSC-447-HW2/issues"
+  },
+  "homepage": "https://github.com/Jwoods0118/CMSC-447-HW2#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0"
+  }
+}
