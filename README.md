@@ -4,7 +4,7 @@ HW2 CRUD Website
 # Spinning up the server
 Install required modules (i.e. nodemon, express, node, etc.).
 After installation, to spin the server, cd into the server directory and run "nodemon server". 
-If running on port 3000, server is running successfully. 
+If running on port 3001, server is running successfully. 
 
 # Showing client side react code/changes
 Install required modules
