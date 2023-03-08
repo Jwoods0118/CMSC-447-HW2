@@ -6,7 +6,7 @@ const UserSchema = new mongoose.Schema({
     required: true,
   },
   id: {
-    type: Number,
+    type: String,
   },
   points: {
     type: Number,
