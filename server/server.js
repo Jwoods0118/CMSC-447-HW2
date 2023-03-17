@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(Router);
 
 /*
-    Listening on port 5000
+    Listening on port 3001 or 5000
 */
 app.listen(port, () => console.log(`Listening on port ${port}`));
 
